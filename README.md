@@ -1,8 +1,6 @@
 
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou a Larissa
-  <p align="center">Sou estudante do tecnico em informatica no IFNMG
-  <p align="center"> Vamos codar?
+  <h1 align="center">Hello, World ツ
 </div>
 
 
