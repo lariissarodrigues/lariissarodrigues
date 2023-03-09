@@ -17,11 +17,3 @@
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title = "Python">
   
  
-</div> 
-
- 
-     
-![Snake animation](https://github.com/lariissarodrigues/lariissarodrigues/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-    
